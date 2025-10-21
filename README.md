@@ -1,4 +1,15 @@
-# Sampoerna-Career-Center-Connect-Website-
-Sampoerna Career Center Website for Softeng Project
+# Project Overview
 
-More info, go to 👀👉https://lovable.dev/projects/9173e662-683d-4fdb-be34-0b3165d38470?magic_link=mc_2fcb33e1-946a-4605-97bb-6f09316f3595
+The Sampoerna University Career Portal is a professional web application designed to centralize and streamline the connection between students and career opportunities. It addresses the current inefficiency of scattered job postings via emails and group chats, providing a modern, searchable, and organized platform.
+
+# The Problem
+
+Students currently miss out on valuable job and internship opportunities due to disorganized, hard-to-search information spread across various group chats and emails.
+
+# The Solution
+
+A unified, role-based web dashboard allowing:
+
+- Students to easily search, filter, save, and apply for opportunities.
+
+- Admins (Career Center) to post, edit, and manage all job listings from a secure interface.
